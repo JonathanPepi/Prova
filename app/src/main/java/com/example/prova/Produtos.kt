@@ -1,3 +1,3 @@
-package com.example.prova1
+package com.example.prova
 
 data class Produto(val nome: String, val categoria: String, val preco: Double, val quantidade: Int)
